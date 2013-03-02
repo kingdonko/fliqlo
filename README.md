@@ -1,33 +1,21 @@
-WebSaver: A WebKit-based Mac OS X screensaver
+fliqlo WebSaver implementation: based on Web.saver engine
 =============================================
-
-A Mac OS X screensaver which simply embeds WebKit to display a webpage or JavaScript application. Perfect for Canvas animations.
-
-You can specify a web url as screen saver. 
-
-Here are some interesting links: http://gaohao-php-html5-learning.herokuapp.com/ScreenSaver/
-
-This version includes a simple Preferences sheet.
 
 Instructions
 ------------
 
-Install the pre-built version of WebSaver by double-clicking "WebSaver/build/Release/Web.saver".
 
-Replace "Web.saver/Contents/Resources/index.html" with your own web page or application.
+1. Run installer (installs GitWeb.saver to ('/Library/Screen Savers')
+2. Navigate Finder to '/Library/Screen Savers'
+3. Double Click GitWeb.saver (should open preference pane)
+4. Select GitWeb (should be at bottom of list)
 
-To build from source, do the following:
-
-1. Open WebSaver.xcodeproj in Xcode.
-
-2. Build.
-
-3. Double-click the built Web.saver to install.
+If the clock face isn't showing, then press the 'Screen Saver Options button' and in the input window, paste '/Library/Screen Savers/GitWeb.saver/Contents/Resources/player.html' (without the quotes) and you fliqlo should work on OSX 10.8.
 
 Notes
 -----
 
-* Change the "Product Name" in the "Web" target if you are distributing a screensaver to prevent conflicts with others.
+* Buggy and unpredictable, but if you really want fliqlo updated for mountain lion, this will work.
 
 License
 -------
