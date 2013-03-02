@@ -5,12 +5,12 @@ Instructions
 ------------
 
 
-1. Run installer (installs GitWeb.saver to ('/Library/Screen Savers')
+1. Run installer fliqlo.pkg to install GitWeb.saver to '/Library/Screen Savers'
 2. Navigate Finder to '/Library/Screen Savers'
-3. Double Click GitWeb.saver (should open preference pane)
+3. Double Click GitWeb.saver (should open Screen Savers preference pane)
 4. Select GitWeb (should be at bottom of list)
 
-If the clock face isn't showing, then press the 'Screen Saver Options button' and in the input window, paste '/Library/Screen Savers/GitWeb.saver/Contents/Resources/player.html' (without the quotes) and you fliqlo should work on OSX 10.8.
+If the clock face isn't showing, then press the 'Screen Saver Options button' and in the input window, paste '/Library/Screen Savers/GitWeb.saver/Contents/Resources/player.html' (without the quotes) and a flash webpage displaying the fliqlo animations should appear on OSX 10.8.
 
 Notes
 -----
