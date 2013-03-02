@@ -1,0 +1,12 @@
+﻿"Expires"	= "Verloopdatum:";
+"Expired" 	= "Inactief";
+"HasExpired" = "Deze screensaver is verlopen";
+"Warning" = "Let op!";
+"Delete" = "Verwijderen";
+"Cancel" = "Annuleren";
+"DeleteMsg" = "Als u Verwijderen selecteert zal de screensaver worden verwijderd en sluit het venster Systeem instellingen";
+
+/* Net Connection Strings */
+
+"NetCheck"			=	"services.screentime.com";
+"Firewall_Trigger"	=	"http://services.screentime.com/saver?purpose=askUsersFirewallAppForOnlineContentPermission&platform=Mac&name=";

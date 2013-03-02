@@ -1,0 +1,12 @@
+﻿"Expires"	= "Expire le :";
+"Expired" 	= "Expiré";
+"HasExpired" = "L'écran de veille est expiré";
+"Warning" = "Avertissement !";
+"Delete" = "Supprimer";
+"Cancel" = "Annuler";
+"DeleteMsg" = "Si vous choisissez Supprimer, l'écran de veille sera supprimé.";
+
+/* Net Connection Strings */
+
+"NetCheck"			=	"services.screentime.com";
+"Firewall_Trigger"	=	"http://services.screentime.com/saver?purpose=askUsersFirewallAppForOnlineContentPermission&platform=Mac&name=";
