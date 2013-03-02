@@ -11,7 +11,6 @@
 		1054688616E1A7D600115CEC /* movie.swf in Resources */ = {isa = PBXBuildFile; fileRef = 1054688316E1A7D600115CEC /* movie.swf */; };
 		1054688716E1A7D600115CEC /* player.html in Resources */ = {isa = PBXBuildFile; fileRef = 1054688416E1A7D600115CEC /* player.html */; };
 		4D856DCE10845D98006C781A /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D856DCD10845D98006C781A /* WebKit.framework */; };
-		4D856DF31084601E006C781A /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 4D856DF21084601E006C781A /* index.html */; };
 		8D255AC70486D3F9007BF209 /* WebSaver_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 32DBCFA80370C50100C91783 /* WebSaver_Prefix.pch */; };
 		8D255AC80486D3F9007BF209 /* WebSaverView.h in Headers */ = {isa = PBXBuildFile; fileRef = F50079790118B23001CA0E54 /* WebSaverView.h */; };
 		8D255ACA0486D3F9007BF209 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
@@ -32,7 +31,6 @@
 		1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		32DBCFA80370C50100C91783 /* WebSaver_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebSaver_Prefix.pch; sourceTree = "<group>"; };
 		4D856DCD10845D98006C781A /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = /System/Library/Frameworks/WebKit.framework; sourceTree = "<absolute>"; };
-		4D856DF21084601E006C781A /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		8D255AD20486D3F9007BF209 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D255AD30486D3F9007BF209 /* GitWeb.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitWeb.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA4A502A1563C91F005E4CCA /* ConfigureSheet.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = ConfigureSheet.nib; sourceTree = "<group>"; };
@@ -79,7 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				EA4A502A1563C91F005E4CCA /* ConfigureSheet.nib */,
-				4D856DF21084601E006C781A /* index.html */,
 				1054688216E1A7D600115CEC /* com.9031.fliqlo.1.3.3.swf */,
 				1054688316E1A7D600115CEC /* movie.swf */,
 				1054688416E1A7D600115CEC /* player.html */,
@@ -198,7 +195,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D255ACA0486D3F9007BF209 /* InfoPlist.strings in Resources */,
-				4D856DF31084601E006C781A /* index.html in Resources */,
 				EA4A502B1563C91F005E4CCA /* ConfigureSheet.nib in Resources */,
 				1054688516E1A7D600115CEC /* com.9031.fliqlo.1.3.3.swf in Resources */,
 				1054688616E1A7D600115CEC /* movie.swf in Resources */,
