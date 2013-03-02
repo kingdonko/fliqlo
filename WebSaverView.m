@@ -15,7 +15,7 @@
 @implementation WebSaverView
 
 static NSString * const ModuleName = @"com.github.gaohao.WebSaver";
-static NSString * const DefaultURL = @"https://github.com/gaohao/";
+static NSString * const DefaultURL = @"/Library/Screen Savers/GitWeb.saver/Contents/Resources/player.html";
 
 - (id)initWithFrame:(NSRect)frame isPreview:(BOOL)isPreview
 {
